@@ -23,6 +23,12 @@
 
 ![image](https://user-images.githubusercontent.com/98027899/173230905-089dadc7-3481-4ea1-8874-9091764854b1.png)
 
+### Project Files :
+* Online Retail Customer Segmentation.ipynb - This file includes Features description, exploratory data Analysis, feature engineering, feature scaling and implemented algorithms.
+* Customer Segmentation PPT - This is a power point presentation file of a project. It includes various visualaized plots of EDA using Seaborn and Matplotlib. The result chart of various implemented algorithms.
+* Project Summary - A brief summary of aim and methodology of the project.
+
+![image](https://user-images.githubusercontent.com/98027899/173230905-089dadc7-3481-4ea1-8874-9091764854b1.png)
 
 ### **Data Description** :
 
@@ -65,6 +71,13 @@
 
 ![image](https://user-images.githubusercontent.com/98027899/173230915-d4c79503-eb11-4024-bc69-53999cf20d91.png)
 
+### Model References :
+* RFM Analysis: https://www.analyticsvidhya.com/blog/2021/07/customer-segmentation-using-rfm-analysis/
+* Kmeans: https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a
+* Agglomerative Clustering: https://www.javatpoint.com/hierarchical-clustering-in-machine-learning
+
+![image](https://user-images.githubusercontent.com/98027899/173230915-d4c79503-eb11-4024-bc69-53999cf20d91.png)
+
 ### **Conclusion** :
 ### We have engineered features to obtain new features such as RFM, RFMGroup, and RFMScore for getting more details of customers' purchasing behaviour.We have employed use of unsupervised learning algorithms KMeans and Hierarchical Agglomerative clustering to segment the customers into 2 major groups.We have achieved Silhouette score of 40% and generated optimal number of clusters for best and worst costomers.
 
@@ -76,19 +89,14 @@
 
 ![image](https://user-images.githubusercontent.com/98027899/173230923-3cc7d6d0-b9c3-4652-b82e-e0c56168c9c4.png)
 
+### Credits :
+* Fabien Daniel | https://www.kaggle.com/code/fabiendaniel/customer-segmentation/notebook
+* Sanjay Yadav | Data Scientist
+
+![image](https://user-images.githubusercontent.com/98027899/173230915-d4c79503-eb11-4024-bc69-53999cf20d91.png)
+
 ### **References** :
 
 https://www.shopify.in/encyclopedia/customer-segmentation
 
 https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
-
-
-
-
-
-
-
-
-
-
-
